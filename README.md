@@ -1,1 +1,18 @@
-# doomsday-protocol-earth-928
+# Earth-616 • Spotify • DOOMSDAY PROTOCOL 
+**Campaign HQ site:** https://sites.google.com/view/earth616-spotify-hq
+
+## Roles today (Day 1) 
+| Role | Name |
+|---|---|
+| Captain | Aswanth K|
+| Stark | Riju Monachan | 
+| Banner | Amrithesh|
+| Romanoff | Mahadev |
+| Strange | Alowin | 
+| Watcher | Aisha Nitha | 
+## Integrity pact We will only claim evidence we can show. We will verify every AI claim. 
+
+## Day log 
+| Day | Stone | What we built | Evidence link | 
+|---|---|---|---| 
+| 1 | Space | Earth HQ site, touchpoint inventory | |
