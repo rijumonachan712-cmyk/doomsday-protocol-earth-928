@@ -1,5 +1,5 @@
 # Earth-616 • Canva • DOOMSDAY PROTOCOL 
-**Campaign HQ site:** https://sites.google.com/view/earth616-spotify-hq
+**Campaign HQ site:** https://sites.google.com/view/earth-616canvacampaignhq/home
 
 ## Roles today (Day 1) 
 | Role | Name |
@@ -15,4 +15,4 @@
 ## Day log 
 | Day | Stone | What we built | Evidence link | 
 |---|---|---|---| 
-| 1 | Space | Earth HQ site, touchpoint inventory |https://sites.google.com/view/earth616-spotify-hq |
+| 1 | Space | Earth HQ site, touchpoint inventory |https://sites.google.com/view/earth-616canvacampaignhq/home |
