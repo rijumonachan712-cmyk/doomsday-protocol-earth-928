@@ -15,4 +15,4 @@
 ## Day log 
 | Day | Stone | What we built | Evidence link | 
 |---|---|---|---| 
-| 1 | Space | Earth HQ site, touchpoint inventory | |
+| 1 | Space | Earth HQ site, touchpoint inventory |https://sites.google.com/view/earth616-spotify-hq |
