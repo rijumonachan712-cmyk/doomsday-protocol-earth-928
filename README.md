@@ -1,4 +1,4 @@
-# Earth-616 • Spotify • DOOMSDAY PROTOCOL 
+# Earth-616 • Canva • DOOMSDAY PROTOCOL 
 **Campaign HQ site:** https://sites.google.com/view/earth616-spotify-hq
 
 ## Roles today (Day 1) 
